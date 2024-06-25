@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **gabrielcoelhocn08@gmail.com**
 
+- 💀 Fun fact: I used to jump from aircraft, dive at night, handle explosives and shoot a lot. I think I just got bored of all of that...😂
+
 <h3 align="left"> Roger !</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-de-brito-coelho-b65a93283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-de-brito-coelho-b65a93283/" height="30" width="40" /></a>
