@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, What's up!? Gabriel Coelho</h1>
+<h1 align="center">Hey, Wsp!? Gabriel Coelho</h1>
 <h3 align="center">I'm a Full Stack Web Dev based on Rio de Janeiro....just discovered my passion! 👨🏼‍💻♥️</h3>
 
 - 💪🏻 I’m currently working on [Hobbyist](https://github.com/gabrielcoelho90/hobbyist)
