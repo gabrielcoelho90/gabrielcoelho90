@@ -1,5 +1,5 @@
-<h1 align="center"> Gabriel Coelho </h1>
-<h3 align="center">I'm a former Combat Diver 💀🦈 from Brazilian Navy ⚓️ based on Rio de Janeiro that just discovered my passion! 👨🏼‍💻♥️</h3>
+<h1 align="right"> Gabriel Coelho </h1>
+<h3 align="right">I'm a former Combat Diver 💀🦈 from Brazilian Navy ⚓️ based on Rio de Janeiro that just discovered a passion! 👨🏼‍💻♥️</h3>
 
 - 💪🏻 I’m currently working on [Hobbyist](https://github.com/gabrielcoelho90/hobbyist)
 
