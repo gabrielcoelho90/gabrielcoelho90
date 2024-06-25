@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gabrielcoelhocn08@gmail.com**
 
-<h3 align="left"> Copy ?</h3>
+<h3 align="left"> Roger !</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-de-brito-coelho-b65a93283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-de-brito-coelho-b65a93283/" height="30" width="40" /></a>
 </p>
