@@ -1,7 +1,7 @@
 <h1 align="left"> Gabriel Coelho </h1>
 <h3 align="left">I'm a former Combat Diver 💀🦈 from Brazilian Navy ⚓️ 🇧🇷 based on Rio de Janeiro  that just discovered a passion! 👨🏼‍💻♥️</h3>
 
-- 💪🏻 I’m currently working on [Hobbyist](https://github.com/gabrielcoelho90/hobbyist)
+- 💪🏻 I’m currently working on SLIM
 
 - 👨🏼‍💻 I’m currently learning **new ways to improve my knowledge**
 
