@@ -1,15 +1,15 @@
 <h1 align="left"> Gabriel Coelho </h1>
-<h3 align="left">I'm a former Combat Diver 💀🦈 from Brazilian Navy ⚓️ 🇧🇷 based on Rio de Janeiro  that just discovered a passion! 👨🏼‍💻♥️</h3>
+<h3 align="left">Full Stack and former Combat Diver from Brazilian Navy, based on Rio de Janeiro 🏖️</h3>
 
-- 💪🏻 I’m currently working on SLIM
+- Currently working on TDD
 
-- 👨🏼‍💻 I’m currently learning **new ways to improve my knowledge**
+- Currently learning **new ways to improve my knowledge**
 
-- 💬 Ask me about **Ruby, ROR, Phyton**
+- Ask me about **Ruby, ROR, Phyton**
 
-- 📫 How to reach me **gabrielcoelhocn08@gmail.com**
+- How to reach me **gabrielcoelhocn08@gmail.com**
 
-- 💀 Fun fact: I used to jump from aircraft, dive at night, handle explosives and shoot a lot. I think I just got bored of all of that...😂
+- Fun fact: I used to jump from aircraft, dive at night, handle explosives and shoot a lot. I think I just got bored of all of that...😂
 
 <h3 align="left"> Roger !</h3>
 <p align="left">
