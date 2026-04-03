@@ -1,13 +1,11 @@
 <h1 align="left"> Gabriel Coelho </h1>
-<h3 align="left">Full Stack Developer and former Combat Diver in the Brazilian Navy, based in Rio de Janeiro 🏖️</h3>
+<h3 align="left">Full Stack Developer and former Combat Diver in the Brazilian Navy, based in Miami 🏖️</h3>
 
-- Currently working on NOVL
-
-- Currently learning **new ways to improve my knowledge**
+- Currently building my career path in **Software Engineering**  
   
 - How to reach me **gabrielcoelhocn08@gmail.com**
 
-- Fun fact: I used to jump out of planes, dive at night and disarm explosives. I think I just got bored of all of that...😂
+- Fun fact: I used to jump out of planes, dive at night and disarm explosives. I think I just got bored of all of that...🤷‍♂️
 
 <h3 align="left"> Roger !</h3>
 <p align="left">
