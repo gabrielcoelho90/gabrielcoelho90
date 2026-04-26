@@ -1,5 +1,5 @@
 <h1 align="left"> Gabriel Coelho </h1>
-<h3 align="left">Full Stack Developer and former Combat Diver in the Brazilian Navy, based in Miami 🏖️</h3>
+<h3 align="left">Full Stack Developer and former Brazilian Navy SEAL, based in Miami 🏖️</h3>
 
 - Currently building my career path in **Software Engineering**  
   
